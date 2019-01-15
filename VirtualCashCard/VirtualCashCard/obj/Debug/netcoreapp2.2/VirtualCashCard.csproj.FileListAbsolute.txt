@@ -1,0 +1,13 @@
+C:\Test Projects\VirtualCashCard\VirtualCashCard\bin\Debug\netcoreapp2.2\VirtualCashCard.deps.json
+C:\Test Projects\VirtualCashCard\VirtualCashCard\bin\Debug\netcoreapp2.2\VirtualCashCard.runtimeconfig.json
+C:\Test Projects\VirtualCashCard\VirtualCashCard\bin\Debug\netcoreapp2.2\VirtualCashCard.runtimeconfig.dev.json
+C:\Test Projects\VirtualCashCard\VirtualCashCard\bin\Debug\netcoreapp2.2\VirtualCashCard.dll
+C:\Test Projects\VirtualCashCard\VirtualCashCard\obj\Debug\netcoreapp2.2\VirtualCashCard.csproj.CoreCompileInputs.cache
+C:\Test Projects\VirtualCashCard\VirtualCashCard\obj\Debug\netcoreapp2.2\VirtualCashCard.AssemblyInfoInputs.cache
+C:\Test Projects\VirtualCashCard\VirtualCashCard\obj\Debug\netcoreapp2.2\VirtualCashCard.AssemblyInfo.cs
+C:\Test Projects\VirtualCashCard\VirtualCashCard\bin\Debug\netcoreapp2.2\VirtualCashCard.pdb
+C:\Test Projects\VirtualCashCard\VirtualCashCard\obj\Debug\netcoreapp2.2\VirtualCashCard.dll
+C:\Test Projects\VirtualCashCard\VirtualCashCard\obj\Debug\netcoreapp2.2\VirtualCashCard.pdb
+C:\Test Projects\VirtualCashCard\VirtualCashCard\bin\Debug\netcoreapp2.2\Accounts.Json
+C:\Test Projects\VirtualCashCard\VirtualCashCard\bin\Debug\netcoreapp2.2\appsettings.Json
+C:\Test Projects\VirtualCashCard\VirtualCashCard\bin\Debug\netcoreapp2.2\Model\VirtualBank.cs

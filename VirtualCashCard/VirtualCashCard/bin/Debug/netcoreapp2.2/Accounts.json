@@ -1,0 +1,30 @@
+{
+  "Customers": [
+    {
+      "Name": "Richard",
+      "CustomerId": 10001,
+      "Accounts": [
+        {
+          "$type": "VirtualCashCard.Model.Account, VirtualCashCard",
+          "Id": 120001,
+          "CustomerId": 10001,
+          "AccountPin": 1121,
+          "AvailableBalance": 100.0
+        }
+      ]
+    },
+    {
+      "Name": "Mark",
+      "CustomerId": 10002,
+      "Accounts": [
+        {
+          "$type": "VirtualCashCard.Model.Account, VirtualCashCard",
+          "Id": 120002,
+          "CustomerId": 10002,
+          "AccountPin": 1115,
+          "AvailableBalance": 100.0
+        }
+      ]
+    }
+  ]
+}
